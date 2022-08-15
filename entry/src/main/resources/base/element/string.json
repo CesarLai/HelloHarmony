@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HelloHarmony"
+    },
+    {
+      "name": "entry_MainAbility",
+      "value": "首页"
+    },
+    {
+      "name": "mainability_description",
+      "value": "APP模块入口"
+    }
+  ]
+}
