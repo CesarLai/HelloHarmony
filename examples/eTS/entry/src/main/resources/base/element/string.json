@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "APP模块入口"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "MainAbility入口"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "HelloHarmony"
+    },
+    {
+      "name": "tab_home_label",
+      "value": "首页"
+    },
+    {
+      "name": "tab_notes_label",
+      "value": "笔记"
+    },
+    {
+      "name": "tab_favourite_label",
+      "value": "收藏"
+    },
+    {
+      "name": "tab_user_label",
+      "value": "我的"
+    }
+  ]
+}

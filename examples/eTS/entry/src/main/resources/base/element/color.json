@@ -1,6 +1,10 @@
 {
   "color": [
     {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
       "name": "primary_color",
       "value": "#0000ff"
     },

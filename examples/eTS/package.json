@@ -1,0 +1,17 @@
+{
+  "name": "@cesarlai/hello-harmony-ets",
+  "version": "0.1.0",
+  "description": "HarmonyOS APP sample built with eTS.",
+  "repository": {},
+  "license": "MIT",
+  "ohos": {
+    "org": "huawei",
+    "buildTool": "hvigor",
+    "directoryLevel": "project"
+  },
+  "dependencies": {
+    "@ohos/hypium": "1.0.1",
+    "@ohos/hvigor": "1.1.6",
+    "@ohos/hvigor-ohos-plugin": "1.1.6"
+  }
+}
