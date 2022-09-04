@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "primary_color",
+      "value": "#0000ff"
+    },
+    {
+      "name": "tab_inactive",
+      "value": "#888888"
+    },
+    {
+      "name": "tab_active",
+      "value": "#0a59f7"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<div class="container">
+    <text class="title">
+        {{ title }}
+    </text>
+
+    <tabs class="tabs">
+        <tab-content class="tab-content">
+            <div for="{{ tab in tabs }}">
+
+            </div>
+        </tab-content>
+        <tab-bar class="tab-bar">
+            <div class="tab-item" for="{{ tab in tabs }}">
+                <image class="tab-item-icon" src="{{ tab.tabBarProps.icon }}" />
+<!--                <text>{{ tab.tabBarProps.text }}</text>-->
+            </div>
+        </tab-bar>
+    </tabs>
+</div>
